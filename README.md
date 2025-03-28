@@ -4,7 +4,7 @@
 📈Data Scientist in Training.  
 🧠Passionate about Data Analysis and Machine Learning.**
 
-#💻Tech Stack 
+# 💻Tech Stack 
 
 <!--
 **ELMOOY/ELMOOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
