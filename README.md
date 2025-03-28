@@ -13,7 +13,6 @@
 - **Herramientas**: Jupyter Notebook, Git, VS Code, RStudio
 
 **Lenguajes y Herramientas:**  
-
 <div align="center">
   <!-- Python con SVG personalizado -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
@@ -58,17 +57,8 @@
 ## 📫 Contacto
 ¡Siéntete libre de contactarme para colaborar en proyectos o discutir ideas relacionadas con datos!
 - Email: moisesuni.52gmail.com
-<!--
-**ELMOOY/ELMOOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 Estadísticas de GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Lenguajes más usados" />
+</p>
