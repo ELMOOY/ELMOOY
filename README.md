@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mois%C3%A9s+Machorro+Portilla)](https://git.io/typing-svg)
+#[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mois%C3%A9s+Machorro+Portilla)](https://git.io/typing-svg)
 
 **📓Information Technology Engineering Student.  
 📈Data Scientist in Training.  
