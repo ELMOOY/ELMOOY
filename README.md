@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Mois%C3%A9s+Machorro+Portilla)](https://git.io/typing-svg)
 
+**Estudiante de Ingenieria en Tecnologías de la Informacion | Científico de Datos en Formación | Apasionado/a por el Análisis de Datos y Machine Learning**
+
 <!--
 **ELMOOY/ELMOOY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
