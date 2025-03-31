@@ -60,5 +60,5 @@ Feel free to contact me to collaborate on projects or discuss data-related ideas
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tuusuario&layout=compact&theme=radical" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMOOY&layout=compact&theme=radical" alt="Lenguajes más usados" />
 </p>
