@@ -9,7 +9,7 @@
 - **Data Analysis**: Pandas, NumPy, Tidyverse (R), DataFrames.jl (Julia)
 - **Display**: Matplotlib, Seaborn, ggplot2, Plotly
 - **Machine Learning**: Scikit-learn, TensorFlow (básico), XGBoost
-- **Databases**: SQL (PostgreSQL, MySQL), BigQuery
+- **Databases**: SQL (PostgreSQL, MySQL)
 - **Tools**: Jupyter Notebook, Git, VS Code, RStudio
 
 **Languages ​​and Tools:**  
