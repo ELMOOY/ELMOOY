@@ -41,9 +41,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" />
   </a>
-  <a href="https://julialang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original-wordmark.svg" alt="Julia" width="50" height="50" />
-  </a>
   <!-- Librerías de Python -->
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="50" height="50" />
@@ -56,7 +53,7 @@
 
 ## 📫 Contact
 Feel free to contact me to collaborate on projects or discuss data-related ideas!
-- Email: moisesuni.52gmail.com
+- Email: moisesmachorro52@gmail.com
 
 ## 📊 GitHub Statistics
 <p align="center">
