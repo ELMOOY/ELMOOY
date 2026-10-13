@@ -5,10 +5,10 @@
 🧠Passionate about Data Analysis and Machine Learning.**
 
 ## 💻Tech Stack
-- **Languages**: Python, R, SQL, Julia
-- **Data Analysis**: Pandas, NumPy, Tidyverse (R), DataFrames.jl (Julia)
-- **Display**: Matplotlib, Seaborn, ggplot2, Plotly
-- **Machine Learning**: Scikit-learn, TensorFlow (básico), XGBoost
+- **Languages**: Python, R, SQL
+- **Data Analysis**: Pandas, NumPy, Tidyverse (R), DataFrames.jl
+- **Display**: Matplotlib, ggplot2, Plotly
+- **Machine Learning**: Scikit-learn, TensorFlow (basic), XGBoost
 - **Databases**: SQL (PostgreSQL, MySQL)
 - **Tools**: Jupyter Notebook, Git, VS Code, RStudio
 
